@@ -1,2 +1,0 @@
-# geotest
-ayuda
